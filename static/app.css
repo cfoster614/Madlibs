@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(236, 130, 148);
+    font-family: 'Tangerine';
+    
+}
+
+
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
